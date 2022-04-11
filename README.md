@@ -17,7 +17,7 @@
 
 ### My stats :
 [![Active](https://github-readme-stats.vercel.app/api?username=jarodrl&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/JarodRL)  
-[![Active](https://komarev.com/ghpvc/?username=mitsuaaki&color=FAC151)](https://www.github.com/Mitsuaaki)  
+[![Active](https://komarev.com/ghpvc/?username=jarodrl&color=FAC151)](https://www.github.com/JarodRL)  
   
   
 ### Contact me :
