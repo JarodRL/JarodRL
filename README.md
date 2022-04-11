@@ -7,11 +7,12 @@
   
 ### Languages & technologies that I practice :  
 <p align="left">
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/html/html-original.svg" alt="php" width="50" height="50"/>
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/css/css-original.svg" alt="php" width="50" height="50"/>
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50"/>
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/>
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
 <img src="https://github.com/jessestuart/js-devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/javascript/javascript-original.svg" alt="c#" width="50" height="50"/> 
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/> 
+<img src="https://github.com/jessestuart/js-devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 </p>
 
 ### My stats :
