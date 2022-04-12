@@ -1,4 +1,4 @@
-### Une phrase stylé qui te décris toi ou tes ambitions ☁"  
+### I would like to step up in web development ☁"  
 
 ### About me :  
 💨 My name is JarodRL and i'm beginer programmer in C#, HTML/CSS, PHP and Javascript
