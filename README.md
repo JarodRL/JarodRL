@@ -3,7 +3,7 @@
 ### About me :  
 💨 My name is JarodRL and i'm beginer programmer in C#, HTML/CSS, PHP and Javascript
   
-📌 Currently studying at school and working on <a href="https://github.com/ThunderyInc/">Thundery</a> and <a href="https://github.com/JarodRL/jarodrl.github.io">my portfolio</a> & perffectioning my video editing skills.  
+📌 Currently studying at school and working on <a href="https://github.com/ThunderyInc/">Thundery</a> and <a href="https://github.com/JarodRL/jarodrl.github.io">my portfolio</a> i'm perffectioning too my video editing skills.  
   
 ### Languages & technologies that I practice :  
 <p align="left">
