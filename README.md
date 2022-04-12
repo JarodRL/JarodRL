@@ -1,9 +1,10 @@
 ### ☁️ Hi, my goal on github is to share my progress in web development ☁  
 
-### 🧑🏻 About me :  
-  💨 My name is JarodRL and I'm beginer programmer in C#, HTML/CSS, PHP and Javascript
+### 🧑🏻 About me : 
+
+💨 My name is JarodRL and I'm beginer programmer in C#, HTML/CSS, PHP and Javascript
   
-  📌 Currently studying at school and working on <a href="https://github.com/ThunderyInc/">Thundery</a> and <a href="https://github.com/JarodRL   /jarodrl.github.io">my portfolio.</a> I'm perfecting too my video editing skills.  
+📌 Currently studying at school and working on <a href="https://github.com/ThunderyInc/">Thundery</a> and <a href="https://github.com/JarodRL   /jarodrl.github.io">my portfolio.</a> I'm perfecting too my video editing skills.  
   
 ### 📲 Languages & technologies that I practice :  
 <p align="left">
@@ -20,6 +21,6 @@
 [![Active](https://komarev.com/ghpvc/?username=jarodrl&color=FAC151)](https://www.github.com/JarodRL)  
   
   
-### 📩 Contact me :
+### ✉️ Contact me :
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/jarod.mh)  
 [![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/jarod.mahe)
