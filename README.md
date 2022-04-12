@@ -23,4 +23,4 @@
   
 ### ✉️ Contact me :
 [![Active](https://img.shields.io/badge/Instagram-Click-pink?style=flat-square&logo=instagram)](https://www.instagram.com/jarod.mh)  
-[![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/jarod.mahe)
+[![Active](https://img.shields.io/badge/Twitter-Click-cyan?style=flat-square&logo=twitter)](https://twitter.com/jarod_mahe)
