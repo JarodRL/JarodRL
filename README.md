@@ -1,4 +1,4 @@
-### I would like to step up in web development ☁"  
+### ♣ Hi, my goal on github is to share my progress in web development ☁  
 
 ### About me :  
 💨 My name is JarodRL and i'm beginer programmer in C#, HTML/CSS, PHP and Javascript
